@@ -4,8 +4,8 @@
 </h1>
 
 <p align="center">
-  My Journey into AI Security Engineering
   <img src="https://raw.githubusercontent.com/manishx301/PWNAISEC/main/banner.png" alt="PWNAISEC Banner" width="100%">
+  My Journey into AI Security Engineering
 </p>
 
 ## Technicla Writing
