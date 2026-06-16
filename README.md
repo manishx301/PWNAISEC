@@ -2,8 +2,11 @@
   <img src="logo.png" alt="PWNAISEC Logo" width="40">
   PWNAISEC
 </h1>
-My Journey into AI Security Engineering
-![PWNAISEC Banner](banner.png)
+
+<p align="center">
+  My Journey into AI Security Engineering
+  <img src="https://raw.githubusercontent.com/manishx301/PWNAISEC/main/banner.png" alt="PWNAISEC Banner" width="100%">
+</p>
 
 ## Technicla Writing
 I Regularly publish articles on:
